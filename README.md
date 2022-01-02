@@ -3,14 +3,13 @@
 </h1>
 
 ## Ementa
-- Introdução à Sistemas Embarcados
+- Conceitos Iniciais de Sistemas Embarcados
+- Sistemas Embarcados Profissionais
+- Microcontroladores
 - Linguagem C
-- Variáveis em C
-- Estruturas de Decisão
-- Estruturas de Repetição
-- Funções e Bibliotecas
-- Introdução à microcontroladores
-- Programação de Periféricos
-- Saídas Digitais
-- Entradas Digitais
-- Display de LCD
+- Interrupções / Timers
+- Modularização de Softwares Embarcados
+- Máquina de Estados em Softwares Embarcados
+- Modalidades de Softwares Embarcados
+- Futuro dos Sistemas Embarcados
+
