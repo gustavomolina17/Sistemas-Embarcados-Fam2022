@@ -5,13 +5,14 @@
 ## Ementa
 - Conceitos Iniciais de Sistemas Embarcados
 - Sistemas Embarcados Profissionais
-- Microcontroladores
 - Linguagem C
-- Interrupções / Timers
-- Modularização de Softwares Embarcados
-- Máquina de Estados em Softwares Embarcados
-- Modalidades de Softwares Embarcados
-- Futuro dos Sistemas Embarcados
+- Introdução à Microcontroladores
+- Interrupções / Timers (aula 10)
+- Watchdog (aula 11)
+- Arquitetura de Softwares Embarcados (aula 12)
+- Desenvolvimento de um kernel cooperativo (aula 13)
+- Futuro dos Sistemas Embarcados (aula 14)
+
 
 ## Livros
 ![image](https://user-images.githubusercontent.com/70485830/147891391-f25fb127-7009-458c-b8f2-a20edb845c05.png)       ![image](https://user-images.githubusercontent.com/70485830/147891401-57137528-1d62-44e2-847d-cf47ae00883d.png)
