@@ -2,6 +2,9 @@
     Sistemas Embarcados FAM - Engenharia da Computação 01/2022
 </h1>
 
+<a href="url"><img src="(https://user-images.githubusercontent.com/70485830/148957709-573c1589-0f91-4314-b545-76c16058ac74.png" align="left" height="48" width="48" ></a>
+
+
 ## Ementa
 - Conceitos Iniciais de Sistemas Embarcados
 - Sistemas Embarcados Profissionais
