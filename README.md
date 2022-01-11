@@ -7,11 +7,8 @@
 - Sistemas Embarcados Profissionais
 - Linguagem C
 - Introdução à Microcontroladores
-- Interrupções / Timers (aula 10)
-- Watchdog (aula 11)
-- Arquitetura de Softwares Embarcados (aula 12)
-- Desenvolvimento de um kernel cooperativo (aula 13)
-- Futuro dos Sistemas Embarcados (aula 14)
+- Interrupções / Timers
+- Watchdog 
 
 
 ## Livros
