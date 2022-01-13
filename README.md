@@ -1,17 +1,16 @@
-<h1 align="center">
+<h1 >
     Sistemas Embarcados FAM - Engenharia da Computação 01/2022
 </h1>
 
-## Ementa
+
+
+##  Ementa
 - Conceitos Iniciais de Sistemas Embarcados
 - Sistemas Embarcados Profissionais
 - Linguagem C
 - Introdução à Microcontroladores
-- Interrupções / Timers (aula 10)
-- Watchdog (aula 11)
-- Arquitetura de Softwares Embarcados (aula 12)
-- Desenvolvimento de um kernel cooperativo (aula 13)
-- Futuro dos Sistemas Embarcados (aula 14)
+- Interrupções / Timers
+- Watchdog 
 
 
 ## Livros
